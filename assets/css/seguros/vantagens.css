@@ -4,7 +4,7 @@
 
 .vantagens {
   padding-top: 120px;
-  margin-bottom: 120px;
+  padding-bottom: 120px;
 }
 
 .vantagens h2 {
@@ -19,10 +19,10 @@
 
 .vantagens h3,
 .vantagens img {
-  margin-bottom: 80px;
+  margin-bottom: 8px;
 }
 
-@media(max-width:800px) {
+@media (max-width: 800px) {
   .vantagens {
     padding-top: 60px;
     padding-bottom: 60px;
