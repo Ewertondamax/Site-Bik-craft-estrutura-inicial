@@ -33,7 +33,8 @@
 @import "./contato/contato.css";
 /*lojas*/
 @import "./contato/lojas.css";
-
+/*orçamento*/
+@import "./orcamento/orcamento.css";
 /*termos e condições*/
 @import "./termos/termos.css";
 
